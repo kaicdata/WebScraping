@@ -1,0 +1,5 @@
+# IDE
+*.spyderproject
+.spyderworkspace
+# Python binaries
+*.pyc
