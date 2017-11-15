@@ -3,3 +3,9 @@
 .spyderworkspace
 # Python binaries
 *.pyc
+*.json
+*.csv
+*.txt
+
+# keep config .csv files
+!Redfin/config/*.csv
