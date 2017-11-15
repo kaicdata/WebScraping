@@ -6,6 +6,7 @@
 *.json
 *.csv
 *.txt
+.Rhistory
 
 # keep config .csv files
 !Redfin/config/*.csv
